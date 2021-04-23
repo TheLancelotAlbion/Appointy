@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styling.css" type="text/css">
+        <title> appointy </title>
+    </head>
+    <body style="background-color:rgb(249, 255, 255);">
+        <header id="abc">
+            <img src="images/Appointy-Logo1.svg" alt="image">
+            <div id="sign">
+                <button>
+               <a href="" target="_blank">Sign Up</a> </button>
+            </div>
+            <div id="login">
+                <a href="" target="_blank">Login</a>
+             </div>
+             <div id="price">
+                <a href="" target="_blank">Pricing</a>
+             </div>
+             <div id="Enterprise">
+                <a href="" target="_blank">Enterprise</a>
+             </div>
+             <div id="Contact">
+                <a href="" target="_blank">Contact Us</a>
+             </div>
+             <div id="Customer">
+                <a href="" target="_blank">Customers</a>
+             </div>
+            <div id="home">
+                <a href="">Home</a>
+             </div>
+            
+        </header>
+        <section>
+            <div id="para">
+                <img src="images/Happy-educator-using-Educator-scheduling-software.svg" alt="image" id="right"/>
+            <h1><b>Education scheduling software</b></h1>
+           <h1><b>to reduce admin work, increase</b></h1>
+           <h1><b>efficiency, and deliver better results</b></h1>
+           <p>Save valuable teaching time with easy online appointments, class</p>
+           <p>scheduling,student management,payments,automated reminders</p>
+           <p>and web conferencing!</p>
+
+           </div>
+           
+           <p id="ui"><b>Get started now!</b></p>
+
+           <div id="gg">
+            <p>No credit card required! Our free plan is free forever.</p>
+           </div>
+            
+
+           <div id="edu">
+               <h1><b>academic institutions</b></h1>
+               <p>Appointy can help businesses and institutions in the education, advising and non-profit domain Schedule 1:1</p>
+               <p>session, round-robin meetings, and group classes</p>
+
+           </div>
+
+           <div id="cde">
+            <table>
+                <tr>
+                    <td id="fd"><img src="images/Schools.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Universities-and-Colleges.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Professors-Teachers.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Libraries.svg" alt="image"></td>
+                    </tr>
+                <tr>
+                <td id="fd"><b>Schools</b></td>
+                <td id="fd"><b>Universities & Colleges</b></td>
+                <td id="fd"><b>Professors & Teachers</b></td>
+                <td id="fd"><b>Libraries</b></td>
+                </tr>
+                <tr>
+                    <td id="fd">Schools can make class time tables, schedule resources, organize staff & parent meetings, career counselling, etc.</td>
+                    <td id="fd">Institutions can schedule academic counselling, advising sessions, applicant interviews, campus tours, courses and more.</td>
+                    <td id="fd">Professors can let students book 1:1 classes, doubt clearing sessions, after school activities, project mentoring and more.</td>
+                    <td id="fd">Public, school or university libraries can manage bookings of study rooms, computer systems, hourly reading slots, etc.</td>
+                </tr>
+                </table>
+        </div>
+
+        <div id="cde">
+            <table>
+                <tr>
+                    <td id="fd"><img src="images/Tutors.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Student-Services.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Test-Centers.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Educational-Events.svg"  alt="image"></td>
+                    </tr>
+                <tr>
+                <td id="fd"><b>Tutors</b></td>
+                <td id="fd"><b>Student Services</b></td>
+                <td id="fd"><b>Test Centers</b></td>
+                <td id="fd"><b>Educational Events</b></td>
+                </tr>
+                <tr>
+                    <td id="fd">Tutors can schedule in-person or online classes, market their business, manage students and more.</td>
+                    <td id="fd">Students can schedule on campus tech support, repair works, admin enquiries, etc., with student services.</td>
+                    <td id="fd">Test centers can schedule seats, computers, test taking time-slots and more.</td>
+                    <td id="fd">Institutions can let attendees reserve a seat for science fairs, art exhibitions, seminars, webinars, conferences, etc.</td>
+                </tr>
+            </table>
+            </div>
+    
+            <div id="edu">
+                <h1><b>All-in-one education scheduling software that helps you</b></h1>
+                <h1><b>achieve all your academic and business goals</b></h1>
+                <p>Appointy's education software takes the friction out of your scheduling process and helps you grow your</p>
+                <p>teaching business or institute while keeping students as the top priority</p>
+               </div>
+               
+
+           <div id="xyz">
+           <table>
+               <tr>
+                   <td id="fd"><img src="images/Connect-with-students0.svg"  alt="image"><b>Connect with prospective<br> students easily</b></td>
+                   <td id="fd"><img src="images/Booking-convenience.svg"  alt="image"><b>Give students more booking <br>convenience</b></td>
+                   <td id="fd"><img src="images/Better-student-experience.svg"  alt="image"><b>Deliver better student <br>experience</b></td>
+               </tr>
+               <tr>
+                   <td id="fd">Admission offices can make<br> their services easily accessible and enroll<br> new students</td>
+                   <td id="fd">Avoid any coordinates hassles and<br> let students easily schedule<br> appointments & classes with you</td>
+                   <td id="fd">Store important student details that<br> you can use to plan out your advising<br> sessions & classes. </td>
+                </tr>
+           </table>
+           </div>
+           <div id="para">
+            <img src="images/Instagram-profile-with-book-button-and-booking-page-with-various-subjects.svg" alt="image" id="right"/>
+            <h1><b>Make it easier for students to find and book 1:1 career counselling<br> and academic advising sessions</b></h1>
+
+            <p><b>Branded online booking system:</b> Create a professional, multi-lingual booking<br>website for your university or institute. Customize it to match your brand- add<br> a logo, services or classes you offer, staff portfolios, campus maps, etc. to<br> ensure that applicants can schedule with the right staff for them.</p>
+            <p><b>Multi-channel bookings:</b> Share your booking link with students in emails, texts,<br> brochures, etc. or let them book campus tours and interview directly from your<br> website with Appointy's website integration.</p>
+            <p>Add a 'book now' button your institute's Facebook and Instagram profiles to <br>connect with new students and give them an option to book an admission<br> assistance call instantly.</p>
+           </div>
+
+           <div id="para">
+            <img src="images/Instagram-profile-with-book-button-and-booking-page-with-various-subjects.svg" alt="image" id="left"/>
+            <h1><b>Eliminate the scheduling back and forth to empower students to<br> reach out whenever they need you </b></h1>
+
+            <p><b>24 * 7 online scheduling:</b>Students can easily find a time that works for them <br>and book a session or sign-up for recurring classes on their own. Confirmed <br>appointments are added to your calendar so that you're never double booked!</p>
+            <p><b>Intelligent timezone detection:</b> Help students & applicants around the globe<br> and ensure that everyone who wants to schedule with you can view your<br> availability in their timezone.</p>
+            <p><b>Web conferencing:</b>Offer students to schedule virtual courses, classes and<br> admission counselling with Appointy's Zoom integration. Automatically send a<br> Zoom meeting or class link in scheduling notifications so that students can join<br> your virtual classroom with just a click!</p>
+           </div>
+
+           <div id="para">
+            <img src="images/Portal-with-student-database.svg" alt="image" id="right"/>
+            <h1><b>Personalize sessions based on student's needs and elevate their experience & satisfaction</b></h1>
+            
+
+            <p><b>Dedicated student profiles:</b> Collect important student information like contact<br> details, classes attended, payments, etc. under student profiles. Use notes to<br> make quick remarks about weak subjects, career analysis,etc. to communicate<br> progress reports to parents regularly.</p>
+            <p><b>Intake forms:</b> Collect crucial info at the time of enrollment using our intake<br> forms to prepare better lesson plans and consultation notes before your<br> sessions.</p>
+            <p><b>Online Reputation Management:</b> Automatically request reviews from happy <br>parents and students after a session. Promote these positive reviews on your <br>social media and display them on your booking page with just a click.</p>
+           </div>
+
+           <div id="fu">
+            <h1><b>Appointy handles your everyday admin so that you can</b></h1>
+            <h1><b>focus on increasing student success</b></h1>
+            <p>Cost-effective education booking software that streamlines end-to-end operations, reduces no-shows, and</p>
+            <p>ensures that your staff isn't overwhelmed</p>
+           </div>
+
+           <div id="cde">
+            <table>
+                <tr>
+                    <td id="fd"><img src="images/Calendar-Scheduler-2.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Class-Reminders.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Resource-Scheduling-1.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Booking-Settings-1.svg" alt="image"></td>
+                    </tr>
+                <tr>
+                <td id="fd"><b>Calendar Scheduler</b></td>
+                <td id="fd"><b>Class Reminders</b></td>
+                <td id="fd"><b>Resource Scheduling</b></td>
+                <td id="fd"><b>Booking Automation</b></td>
+                </tr>
+                <tr>
+                    <td id="fd">See your entire schedule at a glance with Appointy’s easy-to-use calendar with colour coded tiles for teachers and sessions. Sync schedule with your personal or professional calendars so that you’re never double booked.</td>
+                    <td id="fd">Send automated email and text reminder notifications to students prior to a session, meeting or a class to ensure that they don’t miss it. Customize them to a add info like room number, location links, etc.</td>
+                    <td id="fd">Reserve equipments, lab rooms, sports fields, conference halls, etc. automatically when a session is booked. Save time and reduce operational costs that come with manually allocating resources.</td>
+                    <td id="fd">Limit number of meetings and classes you can take in a day/week so that you are not overloaded. Choose how much in advance anyone can book/cancel, set maximum capacity for a class or session, and more.</td>
+                </tr>
+                </table>
+        </div>
+
+        <div id="cde">
+            <table>
+                <tr>
+                    <td id="fd"><img src="images/Team-Management-1.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Online-prepayments-1.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Reporting-and-Analytics-2.svg"  alt="image"></td>
+                    <td id="fd"><img src="images/Wellness-Scheduling-App-1.svg"  alt="image"></td>
+                    </tr>
+                <tr>
+                <td id="fd"><b>Staff Management</b></td>
+                <td id="fd"><b>Online Prepayments</b></td>
+                <td id="fd"><b>Reporting & Analytics</b></td>
+                <td id="fd"><b>Scheduling Mobile App</b></td>
+                </tr>
+                <tr>
+                    <td id="fd">Boost staff productivity and let them view & manage their own schedules and sick leaves using spate staff logins. Distribute sessions across your team automatically with intelligent staff allocation.</td>
+                    <td id="fd">Allow students to pay for your classes/sessions when they book. Require full/partial fee with our payment integrations with Stripe, Square, and Paypal, so that you don’t lose out on last-minute cancellations.</td>
+                    <td id="fd">Keep a track on the number of classes in a week/month, sales, staff utilization, and more. Powerful reporting tools help you spot and resolve operational inefficiencies and help optimize your processes.</td>
+                    <td id="fd">Stay on top of upcoming appointments and scheduling changes with Appointy’s Android & iOS mobile app. You and your staff can manage scheduling, payments, and reminders even when you are away from the desk.</td>
+                </tr>
+            </table>
+            </div>
+
+
+
+
+           <div id="fu">
+            <h1><b>Appointy integartes with the apps you already use</b></h1>
+            <p>App Education scheduling software that integrates with popular payments apps, social media, video conferencing tools, and personal/ work calendars</p>
+           </div>
+
+           <div id="jkl">
+               <table>
+                   <tr>
+                   <td id="fd">Multiple payment apps</td>
+                   <td id="fd">Personal & Work Calendar</td>
+                   <td id="fd">Video Conferencing apps</td>
+                   </tr>
+               </table>
+           </div>
+           <img src="images/1024.png" width="1024px"  alt="image" id="lol">
+
+           <div id="fu">
+            <h1><b>Custom online scheduling software to fit the unique needs of <br>universities, schools and tutoring centers</b></h1>
+            <p>We have designed tailor made scheduling software solutions for various educational institutes to help streamline their complex<br> booking process</p>
+           </div>
+                
+             <h2 id="fu">Learn More</h2>
+
+
+             <div id="cde">
+                <table>
+                    <tr>
+                        <td id="ld"><img src="images/Third-party-integration.svg"  alt="image"></td>
+                        <td id="ld"><img src="images/End-to-end-branding.svg"  alt="image"></td>
+                        <td id="ld"><img src="images/Custom-workflows.svg"  alt="image"></td>
+                        <td id="ld"><img src="images/Dedicated-support-team.svg"  alt="image"></td>
+                        </tr>
+                    <tr>
+                    <td id="ld"><b>Third-Party Integrations</b></td>
+                    <td id="ld"><b>End-to-End Branding</b></td>
+                    <td id="ld"><b>Custom WOrkflows</b></td>
+                    <td id="ld"><b>Dedicated Support</b></td>
+                    </tr>
+                    <tr>
+                        <td id="ld">We build integrations with core<br>systems that work with every<br> day to give you an all-in-one solution</td>
+                        <td id="ld">We offer custom-branded and white<br>labelled solution that match your<br>brand image</td>
+                        <td id="ld">Our solution can be customized to <br>cater to any specific scheduling<br>needs of your company</td>
+                        <td id="ld">Our support team will help on board<br>train your team, implement new<br>features, troubleshoot, etc.</td>
+                    </tr>
+                    </table>
+            </div>
+            <h2 id="fu">Learn More</h2>
+            <h1 id="mu"><b>23,000+ educators and institutes use Appointy worldwide.</b></h1>
+        
+        </section>
+     
+    </body>
+</html>

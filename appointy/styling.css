@@ -1,0 +1,90 @@
+#abc{
+    
+    background-color: white;
+    color: rgb(255, 255, 255);
+   
+    
+}
+#home,#Customer,#Contact,#Enterprise,#price,#login{
+    float: right;
+    text-align: center;
+    padding-right: 40px;
+}
+
+
+#sign{
+    float: right;
+    padding-right: 40px;
+}
+#right{    
+    float: right; 
+    padding-right: 250px;    
+}
+#left{    
+    float: left; 
+    padding-right: 100px;    
+}
+#para{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+#gg{
+    padding-left: 200px;
+
+}
+#edu{
+    text-align: center;
+    margin-top: 100px;
+}
+#fyi{
+    text-align:left;
+    padding-left: 200px;
+    margin-top: 50px;
+   
+}
+#fd{
+    padding-right: 50px;
+    text-align: left;
+}
+#ld{
+    padding-right: 50px;
+    text-align: center;
+}
+
+#xyz{
+    
+    padding-right: 50px;
+    margin-top: 100px;
+    margin-left: 400px;
+    
+}
+#fu{
+    text-align: center;
+    margin-top: 150px;
+}
+#jkl{
+    
+    padding-right: 50px;
+    margin-top: 100px;
+    margin-left: 450px;
+    
+}
+#cde{
+    margin-left: 350px;
+    margin-top: 50px;
+    padding-right: 200px;
+}
+
+#lol{
+    padding-left: 300px;
+    margin-top: 20px;
+}
+#mu{
+    text-align: center;
+}
+
+#ui{
+    text-align:left;
+    padding-left: 210px;
+    margin-top: 50px;
+}
